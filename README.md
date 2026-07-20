@@ -17,12 +17,20 @@ I specialize in **Laravel + Vue.js** ecosystems with multi-tenant SaaS architect
 | [**RentFlow**](https://github.com/dashmirz/RentFlow) | Laravel, Vue 3 | Property rental management platform |
 | [**MultiAI**](https://github.com/dashmirz/MultiAI) | Next.js, TypeScript | Multi-provider AI chat interface — Claude, GPT, Gemini in one UI |
 | [**OpenClaw**](https://github.com/dashmirz/OpenClaw) | Node.js, Docker | Self-hosted multi-agent AI system on Windows Server |
+| [**RoleReply**](https://interview.njeklik.com) | Next.js, Laravel, OpenAI Realtime, WebRTC | AI voice interview simulator — realtime adaptive interviewer with per-answer feedback; Balkans→DACH (interview in DE/EN, feedback in Albanian) |
+| [**BetterPDF**](https://pdf.njeklik.com) | Laravel, PHP 8.3, MySQL | Browser-based PDF toolkit — 30+ tools (merge, split, compress, convert, OCR) with chainable workflows and auto-deleting uploads |
 | [**AutomationKit**](https://github.com/dashmirz/AutomationKit) | Vue 3, Vite | Browser automation toolkit and developer tools |
 | [**GoogleFlowAutomator**](https://github.com/dashmirz/GoogleFlowAutomator) | JavaScript | Multi-tab Google Ads automation flows |
+| [**Ankandet Sniper**](https://ankandet.online) | Python, Flask, Selenium | Auction sniping automation for Ankandet.com — automated bidding jobs with real-time monitoring |
 | [**IRemote**](https://github.com/dashmirz/IRemote) | .NET 8, Android | Remote command hub — Windows agent + Android app for remote PC management |
 | [**AdCash Dashboard**](https://github.com/dashmirz/AdCashDashboard) | PHP, Bootstrap | Publisher earnings dashboard with AdCash API integration |
+| [**M3U Edit**](https://m3uedit.online) | Python, Flask, MySQL | IPTV playlist management dashboard — source scanning, dead-stream detection, URL validation, Excel reports |
+| [**YouT**](https://yt.njeklik.com) | React, PHP, MySQL, YouTube API | Private multi-user YouTube playlist player — per-user playlists, inline search, snippet mode, PWA |
+| [**KeepNotes**](https://keepnotes.online) | PHP, MySQL, Capacitor, PWA | Privacy-focused online notepad — instant 4-char share URLs, version history, AI assistant, offline PWA + mobile apps |
 | [**SecurityAwareness**](https://github.com/dashmirz/SecurityAwareness) | Laravel, Vue 3, Capacitor | Security awareness training platform with mobile apps |
 | [**TimeTracker**](https://github.com/dashmirz/TimeTracker) | PHP | Employee time tracking and reporting |
+| [**StarKids**](https://typingkid.vercel.app) | Vanilla JS, Web Audio | Educational keyboard game for kids 3–7 — 17 levels of letters, numbers, math, puzzles |
+| [**Kidora**](https://kidora.site) | Next.js, PostgreSQL, Meilisearch | Swiss affiliate discovery platform for baby products (0–1) — search, compare, AI product finder *(in development)* |
 | [**Njeklik.com**](https://github.com/dashmirz/Njeklik) | Next.js | Company portfolio and landing pages |
 
 ---
@@ -35,8 +43,8 @@ Frontend     Vue 3 · React/Next.js · Tailwind CSS 4 · Pinia · Vite
 Mobile       Capacitor (Android + iOS)
 Desktop      Tauri (Windows, macOS, Linux)
 Infra        Windows Server · IIS · Cloudflare · NSSM · win-acme SSL
-AI/ML        OpenAI · Claude API · Multi-agent systems
-Other        .NET 8 · Docker · Python · Browser Automation
+AI/ML        OpenAI · Claude API · OpenAI Realtime (voice) · Multi-agent systems
+Other        .NET 8 · Docker · Python · Browser Automation · OCR (Tesseract)
 ```
 
 ---
